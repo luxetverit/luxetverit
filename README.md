@@ -32,13 +32,11 @@ Here are some ideas to get you  started:
   ## Skill :four_leaf_clover:
 
   <!--백-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicroSoft%20SQL%20Server&logoColor=white"/>
   <br/>
   <!--언어 및 툴 -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <br/>
   <!--OS -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
@@ -49,11 +47,13 @@ Here are some ideas to get you  started:
  <!--공부중 -->
  
  ## Studying :pencil2: 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
   <!--백-->
  <br/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
  <!--언어 및 툴 --> <br/>
@@ -61,6 +61,19 @@ Here are some ideas to get you  started:
  <br/>
  <br/>
   
+ <!--사용해본것 -->
+ 
+ ## Used at once :ballot_box_with_check: 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+ 
+ <br/>
+ <br/>
+ 
  <!--알고리즘 -->
  <a href="https://github.com/luxetverit/algorithm-solving" > 
  
