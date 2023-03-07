@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxetverit&show_icons=true&theme=radical)
 
+Silver 💍
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=luxetverit)](https://solved.ac/luxetverit)<br/>
