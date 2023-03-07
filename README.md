@@ -21,7 +21,7 @@ Here are some ideas to get you  started:
 안녕하세요 제 이름은 남정우 입니다.😎 <br/>
 백엔드 개발자 및 서버엔지니어로 근무한 경험이 있습니다. <br/>
 현재는 파이썬 및 머신러닝을 공부중입니다. <br/>
-<br/><br/>
+<br/>
  
  <!--이메일-->
   ## Email :email:
@@ -30,26 +30,26 @@ Here are some ideas to get you  started:
  <!--기술스택-->
   ## Skill :four_leaf_clover:
 
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  
-   <br/>
   <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicroSoft%20SQL%20Server&logoColor=white"/>
   <br/>
   <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br/><br/>
   
  <!--공부중 -->
  
-  ## Studying :pencil2: 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+ ## Studying :pencil2: 
+ <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
   <!--백-->
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
  <!--언어 및 툴 --> <br/>
 
  <br/>
@@ -61,8 +61,9 @@ Here are some ideas to get you  started:
  ## Problem Solving :muscle: 
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=luxetverit)](https://solved.ac/luxetverit)<br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <br/><br/><br/>
   
