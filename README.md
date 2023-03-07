@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 Silver 💍  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=luxetverit)](https://solved.ac/luxetverit)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxetverit&layout=compact)](https://github.com/luxetverit/github-readme-stats)
